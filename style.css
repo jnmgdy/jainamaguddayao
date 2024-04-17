@@ -58,6 +58,10 @@ a:hover {
   text-decoration-color: rgb(181, 181, 181);
 }
 
+#intro{
+  padding: 5px;
+}
+
 .logo {
   font-size: 2rem;
 }
